@@ -271,7 +271,7 @@ function App() {
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-slate-300 mb-2">
-                      Monthly Leads *
+                      How many leads you manage monthly *
                     </label>
                     <input
                       type="number"
