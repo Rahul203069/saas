@@ -67,7 +67,7 @@ function App() {
     {
       icon: MessageSquareMore,
       title: 'Smart Qualification',
-      description: 'Automated gathering of budget, location, contact number , and preferences and coustom information'
+      description: 'Automated gathering of budget, location, contact number , and preferences '
     },
     {
       icon: BarChart,
