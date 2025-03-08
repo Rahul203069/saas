@@ -342,7 +342,7 @@ function App() {
 
               <div className="mt-12 p-6 rounded-xl bg-gradient-to-b from-slate-800 to-slate-800/50 border border-slate-700/50">
                 <div className="text-center">
-                  <p className="text-3xl font-bold text-gradient mb-2">1,500+</p>
+                  <p className="text-3xl font-bold text-gradient mb-2">50+</p>
                   <p className="text-slate-400">Agents already on the waitlist</p>
                 </div>
               </div>
